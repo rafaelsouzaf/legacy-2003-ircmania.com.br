@@ -11,7 +11,7 @@ This website had a lot of features like:
 - Emoticons
 - Downloads
 
-*** Remember, this website is old. In this time we didin't have frameworks like Bootstrap (or Jquery!!!).
+*** Remember, this website is old. In this time we didn't have frameworks like Bootstrap or Jquery!!!
 
 *** Database included.
 
